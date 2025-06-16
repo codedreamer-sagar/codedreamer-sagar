@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sagar Nayak
 
-<!--
-**codedreamer-sagar/codedreamer-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | BCA Student | Dreaming Big & Coding Daily  
+📍 Bhubaneswar, Odisha | Passionate about growth, logic & building a better future through tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 I’m Currently Learning:
+- ✅ C Programming
+- ✅ Python Programming
+- ✅ HTML, CSS, JavaScript & Bootstrap
+- ✅ Digital Logic & DSA
+
+---
+
+## 📈 My Current Goals:
+- Crack MCA Entrance (NIMCET / CUET-PG)
+- Build 5+ solid Web Projects
+- Get Job-Ready by Final Year
+- Grow my GitHub & LinkedIn profile step by step
+
+---
+
+## 📫 Connect with Me:
+- 🔗 LinkedIn: *Coming Soon*
+- 📧 Email: [sagar18006@gmail.com]
+
+---
+
+_“Consistency + Curiosity = My Superpower”_
+
